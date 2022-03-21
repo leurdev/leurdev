@@ -2,8 +2,8 @@
 
 My name is Ruel and I'm glad that you're here.
 
-- 👀 I’m interested in WordPress, Flutter, Dart and Python.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in anything.
+- 🌱 I’m currently learning Dart and Python.
 - 💞️ I’m looking to collaborate on Flutter.
 
 <!---
